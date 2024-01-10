@@ -1,9 +1,9 @@
 <script lang="ts" setup></script>
 
 <template>
-  <div>
-    Landing
-  </div>
+  <main id="main">
+    main
+  </main>
 </template>
 
 <style scoped></style>
